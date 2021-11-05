@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://minimal-blog.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
+  <a href="https://fishsup.cn">
+    <img alt="fishsup" src="static/avatar.png" height="200" width="200" />
   </a>
 </p>
 <h1 align="center">
@@ -14,7 +14,7 @@
   <a href="https://github.com/sponsors/LekoArts">
     <img alt="GitHub Sponsors" src="https://img.shields.io/github/sponsors/LekoArts">
   </a>
-  <a href="https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter">
+  <a href="https://fishsup.cn">
     <img alt="Website" src="https://img.shields.io/badge/-website-blue">
   </a>
   <a href="https://twitter.com/intent/follow?screen_name=lekoarts_de">
@@ -24,9 +24,9 @@
 
 Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting. Using the Gatsby Theme [`@lekoarts/gatsby-theme-minimal-blog`](https://github.com/LekoArts/gatsby-themes/tree/main/themes/gatsby-theme-minimal-blog).
 
-[**Demo Website**](https://minimal-blog.lekoarts.de)
+[**Demo Website**](https://fishsup.cn)
 
-Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter).
+Also be sure to check out other [Free & Open Source Gatsby Themes](https://themes.lekoarts.de) and my [Personal Website](https://fishsup.cn).
 
 ## ✨ Features
 
