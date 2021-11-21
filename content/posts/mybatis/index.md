@@ -117,12 +117,12 @@ MyBatis所有的配置信息都维持在Configuration对象之中。
                - 使用OGNL表达式获取参数值 
            
            - 替换${}的内容
-     
-     4. sqlsession执行 
+   
+4. sqlsession执行 
         - 制定sqlsession接口和api方法 
-        - 创建SqlSession
+            - 创建SqlSession
           - 创建Sqlsession需要先创建SqlSessionFactory，通过 SqlSessionFactoryBuilder使用构建者模式来创建，此时需要 Configuration对象去创建SqlSessionFactory
-        - 执行sqlsession:参数有两个(statementId和参数对象)
+            - 执行sqlsession:参数有两个(statementId和参数对象)
           - 根据statementId，去Configuration中的MappedStatement集合中查找 对应的MappedStatement对象。
           - 取出MappedStatement中的SQL信息 
           - 取出MappedStatement中的statementType，用来创建Statement对象
