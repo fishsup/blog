@@ -114,7 +114,8 @@ MyBatis所有的配置信息都维持在Configuration对象之中。
 
            - 创建`List<ParameterMapping>`集合，存储SQL参数信息 (属性名称、参数类型)
          - 将${}替换成真正的参数 
-               - 使用OGNL表达式获取参数值 
+         
+           - 使用OGNL表达式获取参数值 
            
            - 替换${}的内容
 
