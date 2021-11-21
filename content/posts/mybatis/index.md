@@ -112,7 +112,7 @@ MyBatis所有的配置信息都维持在Configuration对象之中。
      
            - 存储预编译SQL(已经将#{}替换为?的SQL语句) 
      
-           - 创建List\<ParameterMapping>集合，存储SQL参数信息 (属性名称、参数类型)
+           - 创建`List<ParameterMapping>`集合，存储SQL参数信息 (属性名称、参数类型)
          - 将${}替换成真正的参数 
                - 使用OGNL表达式获取参数值 
            
@@ -129,7 +129,7 @@ MyBatis所有的配置信息都维持在Configuration对象之中。
             - 取出MappedStatement中的Configuration对象，通过 Configuration对象，获取DataSource对象，通过DataSource对 象，创建Connection，通过Connection创建Statement对象。 
             - 设置参数
               - 执行preparedStatement.setInt(1,value); 
-                - 遍历List\<ParameterMapping>集合(参数名称、属性类型、顺序)
+                - 遍历`List<ParameterMapping>`集合(参数名称、属性类型、顺序)
                   - 判断是否是集合类型、8种基本类型、String类型、 引用类型
                     - 基本类型的话，传过来的参数就是SQL的参数值 
                     - 引用类型的话，根据参数名称，获取引用类型对应的属性值
