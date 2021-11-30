@@ -1,8 +1,6 @@
 ---
 title: mybatisPlus结合sharding jdbc使用时出现的问题记录
 date: 2021-11-25
-tags:
-- Redis
 ---
 
 # 背景
