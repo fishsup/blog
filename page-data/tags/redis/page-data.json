@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/redis",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/redis滑动窗口限流分析实现","title":"Redis滑动窗口限流分析实现","date":"07.09.2021","excerpt":"背景 需要对业务进行固定时间窗口内限流, 并且要求足够精确 (单机版全部pass) 需要限制的业务key范围特别广, 会导致消耗大量的内存, 在存储上要尽量保证精简.  高性能(至少支撑5000TPS) 实现 公司的基础设施中目前只有redis…","timeToRead":1,"description":null,"tags":[{"name":"Redis","slug":"redis"}]}]}},"pageContext":{"slug":"redis","name":"Redis","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/hashids",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/hashids","title":"Hashids","date":"07.10.2021","excerpt":"最近被一个短链服务坑了, 生成短码的时候使用了hash, 但是没有考虑冲突的情况, 导致固定链接短链生成失败. 没办法, 只能去改源链接碰碰运气避免冲突了 通过这个问题我们顺便来看一下Hashids是如何生成短码的. 常见的短码生成策略 哈希算法 将长网址md5生成3…","timeToRead":1,"description":null,"tags":[{"name":"Hashids","slug":"hashids"}]}]}},"pageContext":{"slug":"hashids","name":"Hashids","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

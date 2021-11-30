@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tags-query-tsx",
+    "path": "/tags",
+    "result": {"data":{"allPost":{"group":[{"fieldValue":"Hashids","totalCount":1},{"fieldValue":"Redis","totalCount":1},{"fieldValue":"mybatis","totalCount":1}]}},"pageContext":{}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}

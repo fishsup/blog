@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-lekoarts-gatsby-theme-minimal-blog-core-src-templates-tag-query-tsx",
+    "path": "/tags/mybatis",
+    "result": {"data":{"allPost":{"nodes":[{"slug":"/mybatis框架分析","title":"mybatis框架分析","date":"10.04.2021","excerpt":"mybatis架构 接口层 接口层是MyBatis提供给开发人员的一套API.主要使用SqlSession接口. 数据处理层 数据处理层是MyBatis框架内部的核心实现.来完成对映射文件的解析与数据处理:  参数解析与参数绑定 SQL…","timeToRead":1,"description":null,"tags":[{"name":"mybatis","slug":"mybatis"}]}]}},"pageContext":{"slug":"mybatis","name":"mybatis","formatString":"DD.MM.YYYY"}},
+    "staticQueryHashes": ["2744905544","3090400250","318001574"]}
